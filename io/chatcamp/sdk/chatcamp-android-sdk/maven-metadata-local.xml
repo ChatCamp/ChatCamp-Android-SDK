@@ -3,7 +3,7 @@
   <groupId>io.chatcamp.sdk</groupId>
   <artifactId>chatcamp-android-sdk</artifactId>
   <versioning>
-    <release>0.1.60</release>
+    <release>0.1.61</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -66,7 +66,8 @@
       <version>0.1.58</version>
       <version>0.1.59</version>
       <version>0.1.60</version>
+      <version>0.1.61</version>
     </versions>
-    <lastUpdated>20181130133617</lastUpdated>
+    <lastUpdated>20181130163126</lastUpdated>
   </versioning>
 </metadata>
