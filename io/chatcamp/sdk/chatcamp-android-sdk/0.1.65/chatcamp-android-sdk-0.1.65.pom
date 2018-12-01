@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.chatcamp.sdk</groupId>
   <artifactId>chatcamp-android-sdk</artifactId>
-  <version>0.1.56</version>
+  <version>0.1.65</version>
   <packaging>aar</packaging>
   <name>ChatCamp Android SDK</name>
   <description>Realtime Chat SDK and API for Apps</description>
